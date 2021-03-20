@@ -1,2 +1,3 @@
-# VBA-Scripting-Assignment
-Assignment 2 BC
+# VBA-Challenge
+Homework #2 BC
+Maria Ines Oñate
